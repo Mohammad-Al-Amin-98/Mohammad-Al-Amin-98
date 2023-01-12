@@ -1,15 +1,18 @@
-### Hi there, I am Mohammad Al Amin 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**TheWizardPro/TheWizardPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am an enthusiast learner, problem solver and a passionate developer!!
-
-
--  I started learning programming in 2021.
--  In March, 2022 I joined a computer science boot camp with Phitron Bangladesh.
--  Afterwards I took an introduction to programming course with c,basic Data Structure course with c++, a Oop course with python.
--  Currently I am learning computer algorithms and doing oop based projects and solving computing problems in online judges.
--  I am very passionate about computer science in general and solving problems in particular.
--  I love linux based OS and working on cli!
--  I am in weird love with a text editor called 'Vim'!
--  My goal is to become a 'Cool' developer and help the world by solving it's problems!
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheWizardPro&style=flat-square&color=blue" alt=""/>
+  </div>
