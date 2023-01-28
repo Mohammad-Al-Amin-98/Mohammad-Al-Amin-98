@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mohammad-al-amin98/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -27,7 +27,7 @@ I am an enthusiast learner, problem solver and software developer <img src="http
  
  :telescope: I started to learn programming in 2021.
 
-- :seedling: In March, 2022 I joined a computer science boot camp with Phitron Bangladesh.
+- :seedling: In March, 2022 I joined a professional computer science course with Phitron Bangladesh.
 
 - :zap: Now I am doing oop based projects with python and solving problems in online judges.
 
