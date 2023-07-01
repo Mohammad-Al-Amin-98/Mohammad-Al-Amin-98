@@ -31,7 +31,7 @@ I am an enthusiast learner, problem solver and software developer <img src="http
 
 - :zap: Now I am doing oop based projects with python and solving problems in online judges.
 
-- :mailbox:How to reach me: 
+- :mailbox:How to reach me: mohammadalamin0075@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
